@@ -1,15 +1,18 @@
-## Welcome to GitHub Pages
+# Olá Developers, sejam bem vindos.
 
-You can use the [editor on GitHub](https://github.com/emmanuelXavier/trend-desafios/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Sobre nós
+João Silva
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Proposição de valor
+João Silva
 
-```markdown
-Syntax highlighted code block
+### Nosso estágio atual (MVP)
+João Silva
+
+### Onde queremos chegar (nossa entrega)
+João Silva
 
 # Header 1
 ## Header 2
