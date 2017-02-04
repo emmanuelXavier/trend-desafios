@@ -1,14 +1,14 @@
 # Olá Developers, sejam bem vindos.
 
+Bem-vindos senhores, o objetivo deste site é fornecer informações sobre os desafios da trend.cards para capacitação e seleção de seu time de desenvolvedores.
 
-
-## Sobre nós
+## Sobre a trend.cards
 João Silva
 
 ### Proposição de valor
 João Silva
 
-### Nosso estágio atual (MVP)
+### Estágio atual (MVP)
 João Silva
 
 ### Onde queremos chegar (nossa entrega)
