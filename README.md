@@ -21,12 +21,16 @@ Os desafios serão postados neste site com as seguintes informações: Nome do d
 
 ***Desafio:*** Tecnologia em Big Data
 ***Justifica*** 
+
 Para que a trend.cards possa entregar sua proposta de valor, será necessário a captura, análise e indexação de uma quantidade maciva de dados. Deste modo, faz-se necessário uma estudo para averiguar se a trend.card necessita de uma tecnologia de Big Data, e em caso positivo avaliar qual a melhor escolha de big data para o contexto da trend.cards.
+
 ***Objetivos*** 
+
 - Avaliar se a trend.cards precisa usar a tecnologia de big data.
 - Conhecer as opções de tecnologias atuais em big data.
 - Avaliar qual tecnologia em big data do mercado mais se encaixa com os requisitos e entregas da trend.cards.
 - Configurar o serviço de big data mais adequado à trend.cards.
+
 ***Material***
 
 
