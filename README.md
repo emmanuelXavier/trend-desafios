@@ -23,7 +23,7 @@ Os desafios serão postados neste site com as seguintes informações: Nome do d
 
 ***Justifica*** 
 
-Para que a trend.cards possa entregar sua proposta de valor, será necessário a captura, análise e indexação de uma quantidade massiva de dados (texto, imagen, futuramente: pdf, word, excel e vídeo). Deste modo, faz-se necessário um estudo para averiguar se a trend.cards necessita de uma tecnologia de Big Data, e em caso positivo avaliar qual a melhor escolha de big data para o contexto da trend.cards.
+Para que a trend.cards possa entregar sua proposta de valor, será necessário a captura, análise e indexação de uma quantidade massiva de dados (texto, imagem, futuramente: pdf, word, excel e vídeo). Deste modo, faz-se necessário um estudo para averiguar se a trend.cards necessita de uma tecnologia de Big Data, e em caso positivo avaliar qual a melhor escolha de big data para o contexto da trend.cards.
 
 ***Objetivos*** 
 
@@ -34,13 +34,10 @@ Para que a trend.cards possa entregar sua proposta de valor, será necessário a
 
 ***Material***
 
+Links de materiais para o desafio. Não se limite aos materiais disponibilizados.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Big Data
+  - Big Data: a survey (artigo). Link [artigo](http://www.cs.unibo.it/~montesi/CBD/Articoli/SurveyBigData.pdf).
+  - Big Data: técnicas e tecnologias para extração de valor dos dados (e-book). Link [e-book](  https://books.google.com.br/books?id=cbWlDQAAQBAJ&pg=PT112&lpg=PT112&dq=apache+Samza&source=bl&ots=6k3oo8J9Hd&sig=IJeumICPO4-GUnblfhNE_-6KbwA&hl=pt-BR&sa=X&ved=0ahUKEwi5qazQwN3RAhVDD5AKHdfUDM0Q6AEIQzAI#v=onepage&q&f=false).
+  
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emmanuelXavier/trend-desafios/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
