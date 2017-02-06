@@ -9,7 +9,7 @@ João Silva
 João Silva
 
 ### Estágio atual
-João Silv
+João Silva
 ### Onde queremos chegar
 João Silva
 
@@ -35,8 +35,9 @@ Para que a trend.cards possa entregar sua proposta de valor, será necessário a
 
 Links de materiais para o desafio. Não se limite aos materiais disponibilizados.
 
-- Big Data
- - Big Data: a survey (artigo). Link <a href='http://www.cs.unibo.it/~montesi/CBD/Articoli/SurveyBigData.pdf'>artigo</a> 
- - Big Data: técnicas e tecnologias para extração de valor dos dados (e-book). Link [e-book](  https://books.google.com.br/books?id=cbWlDQAAQBAJ&pg=PT112&lpg=PT112&dq=apache+Samza&source=bl&ots=6k3oo8J9Hd&sig=IJeumICPO4-GUnblfhNE_-6KbwA&hl=pt-BR&sa=X&ved=0ahUKEwi5qazQwN3RAhVDD5AKHdfUDM0Q6AEIQzAI#v=onepage&q&f=false).
+<ol>Big Data
+ <li>Big Data: a survey (artigo). Link <a href='http://www.cs.unibo.it/~montesi/CBD/Articoli/SurveyBigData.pdf' target='_blank'>artigo</a>.</li>
+ <li>Big Data: técnicas e tecnologias para extração de valor dos dados (e-book). Link <a href='https://books.google.com.br/books?id=cbWlDQAAQBAJ&pg=PT112&lpg=PT112&dq=apache+Samza&source=bl&ots=6k3oo8J9Hd&sig=IJeumICPO4-GUnblfhNE_-6KbwA&hl=pt-BR&sa=X&ved=0ahUKEwi5qazQwN3RAhVDD5AKHdfUDM0Q6AEIQzAI#v=onepage&q&f=false' target='_blank'>e-book</a>.</li>
+</ol>
   
 
