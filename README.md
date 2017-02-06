@@ -49,21 +49,37 @@ Links de materiais para o desafio. Não se limite aos materiais disponibilizados
    <li>Link 02: <a href='http://www.ibm.com/developerworks//library/os-hadoop-scheduling/' target='_blank'>acessar</a></li>
    <li>Link 03: <a href='https://www.infoq.com/br/articles/hadoop-na-nuvem?utm_source=articles_about_hadoop&utm_medium=link&utm_campaign=hadoop' target='_blank'>acessar</a></li>
    <li>Link 04: <a href='http://computerworld.com.br/cinco-coisas-que-voce-precisa-saber-sobre-hadoop-e-apache-spark' target='_blank'>acessar</a></li>
-   </ul>
-   
+  </ul> 
   <li>Spark</li>
   <ul>
    <li>Link 01: <a href='http://www.ibm.com/developerworks/library/os-spark/' target='_blank'>acessar</a></li>
-   <li>Link 02: <a href='https://www.infoq.com/br/articles/apache-spark-introduction ' target='_blank'>acessar</a></li>
-   <li>Link 03: <a href='https://www.infoq.com/br/articles/apache-spark-sql ' target='_blank'>acessar</a></li>
+   <li>Link 02: <a href='https://www.infoq.com/br/articles/apache-spark-introduction' target='_blank'>acessar</a></li>
+   <li>Link 03: <a href='https://www.infoq.com/br/articles/apache-spark-sql' target='_blank'>acessar</a></li>
    <li>Link 04: <a href='https://www.infoq.com/br/articles/apache-spark-streaming?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_tex' target='_blank'>acessar</a></li>
-   </ul>
-   
+  </ul> 
   <li>Storm</li>
+  <ul>
+   <li>Link 01: <a href='https://www.ibm.com/developerworks/br/library/os-twitterstorm/' target='_blank'>acessar</a></li>
+   <li>Link 02: <a href='http://www.memonic.com/user/pneff/folder/queue/id/1qSgf?cm_mc_sid_50200000=1485351144&cm_mc_uid=81459205960014853020618' target='_blank'>acessar</a></li>
+   <li>Link 03: <a href='http://storm-project.net' target='_blank'>acessar</a></li>
+  </ul>
   <li>DataTorrent RTS</li>
+  <ul>
+   <li>Link 01: <a href='https://www.infoq.com/br/news/2015/04/datatorrent' target='_blank'>acessar</a></li>
+  </ul>
   <li>Samza</li>
+  <ul>
+   <li>Link 01: <a href='https://www.linkedin.com/pulse/uma-introdução-ao-apache-samza-mauro-alexandre' target='_blank'>acessar</a></li>
+  </ul>
   <li>Flink</li>
+  <ul>
+   <li>Link 01: <a href='https://flink.apache.org/introduction.html' target='_blank'>acessar</a></li>
+   <li>Link 02: <a href=' https://www.researchgate.net/profile/Jean_Bez/publication/280052790_Plataformas_de_Big_Data_Spark_Storm_e_Flink/links/55a5880608ae5e82ab1fb4b8.pdf?origin=publication_list' target='_blank'>acessar</a></li>
+  </ul>
   <li>Comparação entre as alternativas</li>
+    <ul>
+   <li>Link 01: <a href='https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared' target='_blank'>acessar</a></li>
+  </ul>
  </ol>
 </ul>
   
