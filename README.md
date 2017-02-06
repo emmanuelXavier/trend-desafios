@@ -35,9 +35,12 @@ Para que a trend.cards possa entregar sua proposta de valor, será necessário a
 
 Links de materiais para o desafio. Não se limite aos materiais disponibilizados.
 
-<ol>Big Data
- <li>Big Data: a survey (artigo). Link <a href='http://www.cs.unibo.it/~montesi/CBD/Articoli/SurveyBigData.pdf' target='_blank'>artigo</a>.</li>
- <li>Big Data: técnicas e tecnologias para extração de valor dos dados (e-book). Link <a href='https://books.google.com.br/books?id=cbWlDQAAQBAJ&pg=PT112&lpg=PT112&dq=apache+Samza&source=bl&ots=6k3oo8J9Hd&sig=IJeumICPO4-GUnblfhNE_-6KbwA&hl=pt-BR&sa=X&ved=0ahUKEwi5qazQwN3RAhVDD5AKHdfUDM0Q6AEIQzAI#v=onepage&q&f=false' target='_blank'>e-book</a>.</li>
-</ol>
+<ul>
+ <li>Big Data</li>
+ <ul>
+   <li>Big Data: a survey (artigo). Link <a href='http://www.cs.unibo.it/~montesi/CBD/Articoli/SurveyBigData.pdf' target='_blank'>artigo</a>.</li>
+   <li>Big Data: técnicas e tecnologias para extração de valor dos dados (e-book). Link <a href='https://books.google.com.br/books?id=cbWlDQAAQBAJ&pg=PT112&lpg=PT112&dq=apache+Samza&source=bl&ots=6k3oo8J9Hd&sig=IJeumICPO4-GUnblfhNE_-6KbwA&hl=pt-BR&sa=X&ved=0ahUKEwi5qazQwN3RAhVDD5AKHdfUDM0Q6AEIQzAI#v=onepage&q&f=false' target='_blank'>e-book</a>.</li>
+ </ul>
+</ul>
   
 
