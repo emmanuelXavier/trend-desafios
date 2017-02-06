@@ -26,10 +26,10 @@ Para que a trend.cards possa entregar sua proposta de valor, será necessário a
 
 ***Objetivos*** 
 
-- Avaliar se a trend.cards precisa usar a tecnologia big data.
-- Conhecer as opções de tecnologias atuais em big data.
-- Avaliar qual tecnologia em big data do mercado mais se encaixa com os requisitos e entregas da trend.cards.
-- Configurar e testar o serviço de big data mais adequado (em sua opnião) à trend.cards.
+* Avaliar se a trend.cards precisa usar a tecnologia big data.
+* Conhecer as opções de tecnologias atuais em big data.
+* Avaliar qual tecnologia em big data do mercado mais se encaixa com os requisitos e entregas da trend.cards.
+* Configurar e testar o serviço de big data mais adequado (em sua opnião) à trend.cards.
 
 ***Materiais***
 
@@ -83,4 +83,18 @@ Links de materiais para o desafio. Não se limite aos materiais disponibilizados
  </ol>
 </ul>
   
+  
+***Entregáveis***
 
+Lista de entregáveis que cada participante deverá entregar dia 15/02/2017 via pull request no GitHub.
+
+`Os slides devem ser colocados dentro de Desafio 01/Seu nome/Slide`
+
+`O código do teste deve ser colocado dentro de Desafio 01/Seu nome/Teste`
+
+##Lista de entregáveis
+
+<ul>
+ <li>##Slide:## Slide em pdf que apresenta suas respostas para os objetivos 1,2,3 do desafio. </li>
+ <li>##Teste:## Códigos do teste do serviço apropriado (em sua opinião) às demandas da trend.cards, cumprindo o objetivo 4. </li>
+</ul>
