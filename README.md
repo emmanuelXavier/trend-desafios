@@ -44,13 +44,21 @@ Links de materiais para o desafio. Não se limite aos materiais disponibilizados
  <li>Principais alternatinas</li>
  <ol>
   <li>Hadoop</li>
-   <ul>
+  <ul>
    <li>Link 01: <a href='http://hadoop.apache.org/?cm_mc_uid=81459205960014853020618&cm_mc_sid_50200000=1485351144' target='_blank'>acessar</a></li>
    <li>Link 02: <a href='http://www.ibm.com/developerworks//library/os-hadoop-scheduling/' target='_blank'>acessar</a></li>
    <li>Link 03: <a href='https://www.infoq.com/br/articles/hadoop-na-nuvem?utm_source=articles_about_hadoop&utm_medium=link&utm_campaign=hadoop' target='_blank'>acessar</a></li>
    <li>Link 04: <a href='http://computerworld.com.br/cinco-coisas-que-voce-precisa-saber-sobre-hadoop-e-apache-spark' target='_blank'>acessar</a></li>
    </ul>
+   
   <li>Spark</li>
+  <ul>
+   <li>Link 01: <a href='http://www.ibm.com/developerworks/library/os-spark/' target='_blank'>acessar</a></li>
+   <li>Link 02: <a href='https://www.infoq.com/br/articles/apache-spark-introduction ' target='_blank'>acessar</a></li>
+   <li>Link 03: <a href='https://www.infoq.com/br/articles/apache-spark-sql ' target='_blank'>acessar</a></li>
+   <li>Link 04: <a href='https://www.infoq.com/br/articles/apache-spark-streaming?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_tex' target='_blank'>acessar</a></li>
+   </ul>
+   
   <li>Storm</li>
   <li>DataTorrent RTS</li>
   <li>Samza</li>
