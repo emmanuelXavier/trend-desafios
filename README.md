@@ -92,9 +92,9 @@ Lista de entregáveis que cada participante deverá entregar dia 15/02/2017 via 
 
 `O código do teste deve ser colocado dentro de Desafio 01/Seu nome/Teste`
 
-##Lista de entregáveis
+*Lista de entregáveis*
 
 <ul>
- <li>##Slide:## Slide em pdf que apresenta suas respostas para os objetivos 1,2,3 do desafio. </li>
- <li>##Teste:## Códigos do teste do serviço apropriado (em sua opinião) às demandas da trend.cards, cumprindo o objetivo 4. </li>
+ <li>*Slide:* Slide em pdf que apresenta suas respostas para os objetivos 1,2,3 do desafio. </li>
+ <li>*Teste:* Códigos do teste do serviço apropriado (em sua opinião) às demandas da trend.cards, cumprindo o objetivo 4. </li>
 </ul>
