@@ -79,7 +79,7 @@ Links de materiais para o desafio. Não se limite aos materiais disponibilizados
   <li>Comparação entre as alternativas</li>
     <ul>
    <li>Link 01: <a href='https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared' target='_blank'>acessar</a></li>
-  </ul>
+  </ul> 
  </ol>
 </ul>
   
