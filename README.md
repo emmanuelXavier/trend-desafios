@@ -3,15 +3,17 @@
 Bem-vindos senhores, o objetivo deste site é fornecer informações sobre os desafios da trend.cards para capacitação e seleção de seu time de desenvolvedores.
 
 ## Sobre a trend.cards
-João Silva
+A trend.cards é uma plataforma de acompanhamento de tendências. Com base em comportamento de mercado, simplificamos a grande massa de dados (Big Data) gerados na internet e redes sociais para facilitar a tomada decisão relativa ao destino do seu negócio.
 
 ### Proposição de valor
-João Silva
+ Criamos a Trend Cards para transformar algo complexo em simples, o difícil em fácil, inserir a inteligência em negócios no dia a dia das micro e pequenas empresas. Acreditamos muito no empreendedorismo como agente de mudança e melhoria de um país. Todas as micro e pequenas empresas devem ter acesso à inteligência e à essência do empreendedorismo para vencer no mercado.
 
 ### Estágio atual
-João Silva
+Através da nossa plataforma, o usuário pode escolher o seu segmento de mercado e navegar entre as informações relevantes que vão ajudar a entender e definir os desdobramentos do seu negócio, tudo isso de através de uma interface extremamente simples e gratuita. 
+Faça a instalação do app gratuito. <a hre='https://play.google.com/store/apps/details?id=com.ionicframework.trendcards762619'>Link para o App.</a>
+
 ### Onde queremos chegar
-João Silva
+Estamos preparando nosso sistema para entregar para nossos usuários as tendências exatas do seu negócio e as sugestões mais inteligentes para que vença no mercado através da estratégia empresarial e de um marketing assertivo.
 
 # Desafios
 Os desafios serão postados neste site com as seguintes informações: Nome do desafio, justificativa, objetivos, material e entregáveis.
@@ -86,7 +88,7 @@ Links de materiais para o desafio. Não se limite aos materiais disponibilizados
   
 ***Entregáveis***
 
-Lista de entregáveis que cada participante deverá entregar dia 15/02/2017 via pull request no GitHub.
+Lista de entregáveis que cada participante deverá entregar dia 25/02/2017 via pull request no GitHub.
 
 `Os slides devem ser colocados dentro de Desafio 01/Seu nome/Slide`
 
