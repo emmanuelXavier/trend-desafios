@@ -10,7 +10,7 @@ A trend.cards é uma plataforma de acompanhamento de tendências. Com base em co
 
 ### Estágio atual
 Através da nossa plataforma, o usuário pode escolher o seu segmento de mercado e navegar entre as informações relevantes que vão ajudar a entender e definir os desdobramentos do seu negócio, tudo isso de através de uma interface extremamente simples e gratuita. 
-Faça a instalação do app gratuito. <a hre='https://play.google.com/store/apps/details?id=com.ionicframework.trendcards762619'>Link para o App.</a>
+Faça a instalação do app gratuito. <a href='https://play.google.com/store/apps/details?id=com.ionicframework.trendcards762619' target='_blank'>Link para o App.</a>
 
 ### Onde queremos chegar
 Estamos preparando nosso sistema para entregar para nossos usuários as tendências exatas do seu negócio e as sugestões mais inteligentes para que vença no mercado através da estratégia empresarial e de um marketing assertivo.
